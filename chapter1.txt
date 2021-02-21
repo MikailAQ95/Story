@@ -1,0 +1,1 @@
+This is an example document to understand the basics of git version control. Thanks for reading this!
